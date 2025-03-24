@@ -50,7 +50,7 @@ Vídeo de apresentação
 Gravaremos um vídeo demonstrando as principais funcionalidades do projeto. O link será disponibilizado assim que finalizado.
 
 Sobre mim
-Meu nome é Samuel, sou desenvolvedor de software com experiência em aplicações web e apaixonado por tecnologia. Tenho interesse na vaga de desenvolvimento full-stack, tenho facilidade em aprender e busco sempre estar adquirindo mais conhecimentos.
+Meu nome é Samuel, tenho 27 anos nascido e criado em Rio Preto, sou desenvolvedor de software com experiência em aplicações web e apaixonado por tecnologia, desde os meus 6 anos de idade já desmontava e montava computadores e fazia a formatação dos mesmos na época de Windows xp, já fiz curso de manutenção de microcomputadores e redes locais pelo Senac, me formei recentemente pela Unifatecie em analise e desenvolvimento de sistemas e desde então venho fazendo cursos por plataformas online como UDEMY e ROCKETSEAT para adquirir mais conhecimentos, atualmente estou cursando Full-Stack pela ROCKETSEAT. Tenho interesse na vaga de desenvolvimento full-stack, tenho facilidade em aprender e busco sempre estar adquirindo mais conhecimentos.
 
 Tecnologias Utilizadas
 Angular: Framework JavaScript para construção de interfaces web.
